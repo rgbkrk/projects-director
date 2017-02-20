@@ -1,6 +1,10 @@
-# NumFOCUS Projects
+# Overview
 
-## Roadmp & Planning
+## What is this?
+
+This is the home for documentation and in-progress work for NumFOCUS's [sustainability efforts](http://www.numfocus.org/blog/numfocus-receives-grant-for-project-sustainability) led by Projects Director Christie Koehler ([announcement](http://www.numfocus.org/blog/welcome-christie-koehler-numfocus-projects-director)).
+
+## Roadmap & Planning
 
 - [Draft roadmap](Roadmap draft.md) (in progress)
 
