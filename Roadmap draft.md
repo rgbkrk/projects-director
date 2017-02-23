@@ -73,6 +73,7 @@ My work as Project Director is organized into give (5) main areas:
 - [RB] Consolidated list existing "talking points" and outreach materials.
 - [SB] Preliminary list of suggested learning objectives.
 - [MR] Preliminary plan and discussion for activity metrics and reporting.
+- [EO] Preliminary communications plan.
 
 #### Travel
 
@@ -87,6 +88,7 @@ My work as Project Director is organized into give (5) main areas:
 - [SB] Plan for deploying meeting those learning objectives throughout rest of 2017.
 - [MR] Proposal of relevant metrics and possible collection and reporting mechanisms.
 - [MR] Revised proposal of relevant metrics and possible collection and reporting mechanisms based on feedback.
+- [EO] Revised communication plan based on feedback.
 
 #### Travel
 
