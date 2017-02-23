@@ -9,8 +9,9 @@ My work as Project Director is organized into give (5) main areas:
 
 - Communication with and among projects.
 - Relationship-building w/ industry.
-- Skill building & curriculum development. 
+- Skill building & curriculum development.
 - Metrics and reporting.
+- External outreach.
 
 **Communication with and among projects [PC]** includes one-on-one communication and relationship-building between myself and individual project leads, as well as intra-project communication and resource-sharing. 
 
@@ -20,6 +21,7 @@ My work as Project Director is organized into give (5) main areas:
 
 **Metrics and reporting [MR]** focus on identifying metrics related to project activity, engagement, and sustainability factors and implementing collection and reporting on those metrics so that we can track how we're doing over time.
 
+**External outreach [EO]** includes summarizing and communicating sustainability program efforts and results to interested audiences external to NumFOCUS. This work is done in coodination with NumFOCUS Communications and Events directors.
 
 ## Q1-2017
 
@@ -53,8 +55,13 @@ My work as Project Director is organized into give (5) main areas:
 
 **Goal:** Identify relevant metrics for tracking progress towards "sustainability" overtime and deliver a plan for collecting and reporting on those metrics.
 
-**Metric(s):** 1) Chosen metrics should reflect feedback from project leads, board of directors, advisory council, and sustainability board, 2) Chose metrics should be ones that can be measured or observed without on-going, burdensome effort on the part of project leads or NumFOCUS staff, 3) Metrics and reporting mechanism should be chosen such that reporting can be completed on at least a quarterly basis and that the first reporting can be completed by the end of Q2.
+**Metric(s):** 1) Chosen metrics should reflect feedback from project leads, board of directors, advisory council, and sustainability board, 2) Chosen metrics should be ones that can be measured or observed without on-going, burdensome effort on the part of project leads or NumFOCUS staff, 3) Metrics and reporting mechanism should be chosen such that reporting can be completed on at least a quarterly basis and that the first reporting can be completed by the end of Q2.
 
+#### External outrech
+
+**Goal:** Develop, with the Communications Director, an overall external outreach program plan and calendar.
+
+**Metric(s):** 1) Plan idetifies priority NumFOCUS audiences and includes an effective means of reaching them, 2) Plan outlines a process for collecting relevant news and other content from projects for dissemination in an efficient and timely manner, 3) Plan utilizes existing NumFOCUS communication channels and identifies areas for improvement or expansion, 4) Plan includes a process for synthesizing and highlighting the value and impact of work across NumFOCUS projects, including the that of the sustainability program.
 
 ### February milestones
 
