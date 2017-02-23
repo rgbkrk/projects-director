@@ -65,29 +65,31 @@ My work as Project Director is organized into give (5) main areas:
 
 ### February milestones
 
-- [META] Draft Q1-Q2 2017 roadmap, circulated for feedback and revised as needed.
-- [META] Established communication with NumFOCUS board of directors, staff, advisory council, and sustainability board.
-- [META] Complete usual on-boarding tasks (new hire paperwork, meet staff and stakeholders, setup accounts, etc.)
-- [PC] Get to know projects. Review each NumFOCUS sponsored project and document how they work. Note similarities and differences, potential gaps, etc.
-- [PC] Established communication with and between project leads.
-- [RB] Consolidated list existing "talking points" and outreach materials.
-- [SB] Preliminary list of suggested learning objectives.
-- [MR] Preliminary plan and discussion for activity metrics and reporting.
-- [EO] Preliminary communications plan.
+- [META] **_On track_** Draft Q1-Q2 2017 roadmap, circulated for feedback and revised as needed.
+- [META] **Complete** Established communication with NumFOCUS board of directors, staff, advisory council, and sustainability board.
+- [META] **Complete** Complete usual on-boarding tasks (new hire paperwork, meet staff and stakeholders, setup accounts, etc.)
+- [PC] **Complete** Get to know projects. Review each NumFOCUS sponsored project and document how they work. Note similarities and differences, potential gaps, etc. [Documentation](https://numfocus.github.io/projects-director/#project-overviews)
+- [PC] **_On track_** Established communication with and between project leads.
+
+Note: I moved some milestones to March to accommodate February being a short month, the President's day holiday, and jury duty. 
 
 #### Travel
 
-- SIAM? (In person intros to some project leads, learn about existing sustainability efforts)
+- SIAM (In person intros to some project leads, learn about existing sustainability efforts)
 
 ### March milestones
 
 - [PC] One-on-one with at least one lead from each of sponsored projects.
 - [PC] Facilitated at least one project leads call, with notes about discussion and outcomes.
+- [RB] Consolidated list of existing "talking points" and outreach materials.
 - [RB] Document that identifies gaps in existing outreach materials and processes and plan for closing gaps.
+- [SB] Preliminary list of suggested learning objectives.
 - [SB] Revised list of learning objectives based on feedback from project leads and others.
 - [SB] Plan for deploying meeting those learning objectives throughout rest of 2017.
+- [MR] Preliminary plan and discussion for activity metrics and reporting.
 - [MR] Proposal of relevant metrics and possible collection and reporting mechanisms.
 - [MR] Revised proposal of relevant metrics and possible collection and reporting mechanisms based on feedback.
+- [EO] Preliminary communications plan.
 - [EO] Revised communication plan based on feedback.
 
 #### Travel
