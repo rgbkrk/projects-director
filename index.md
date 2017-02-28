@@ -24,7 +24,7 @@ This is the home for documentation and in-progress work for NumFOCUS's [sustaina
 - [NumPy](projects/NumPy.md)
 - [Pandas](projects/Pandas.md)
 - [Project Jupyter](projects/Project Jupyter.md)
-- [PyMC3](projects/PyMC3.md])
+- [PyMC3](projects/PyMC3.md)
 - [PyTables](projects/PyTables.md)
 - [QuantEcon](projects/QuantEcon.md)
 - [rOpenSci](projects/rOpenSci.md)
